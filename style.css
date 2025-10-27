@@ -1,1 +1,12 @@
-font-family: "Mea Culpa", cursive;
+body{
+    background-color: black;
+    color: white;
+    font-family: "Mea Culpa", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+
